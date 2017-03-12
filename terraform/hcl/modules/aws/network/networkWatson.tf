@@ -1,6 +1,6 @@
 ############################################################################################
 # Terraform Module to create VPC, Internet Gateway, Route Table, Subnet, Security Groups
-# for Watson demo
+# for the Watson demo
 ############################################################################################
 
 variable "network_name_prefix" {}
